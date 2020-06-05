@@ -8,4 +8,4 @@ Please note that only the followings are provided (you should create your projec
 
 Please note that you should create a drawable which is used in the layout of the application (please refer the ActivityMain.xml file)
 
-Please note that the comments in the source code are in romanian (I will updated to English soon.)
+Please note that there are no comments in the source code are in romanian (I will update it soon.)
